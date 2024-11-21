@@ -3,7 +3,7 @@
 
 # Arquivo full
 .DS_Store
-
+.env
 # Arquivo full
 .tmp
 
